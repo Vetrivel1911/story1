@@ -1,1 +1,2 @@
 This is my first story
+Editing the content in chap1 of master branch
